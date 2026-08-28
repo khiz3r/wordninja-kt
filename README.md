@@ -27,7 +27,7 @@ The API key produces mostly non-word fragments → ratio < 0.2 → flag it as a 
 ```bash
 git clone https://github.com/khiz3r/wordninja-kt
 cd wordninja-kt
-./gradlew build          # runs tests + produces build/libs/wordninja-kt-1.0.0-all.jar
+gradlew build          # runs tests + produces build/libs/wordninja-kt-1.0.0-all.jar
 ```
 
 The fat jar (`-all.jar`) bundles Kotlin stdlib and the word list — drop it anywhere
