@@ -31,10 +31,10 @@ gradlew build          # runs tests + produces build/libs/wordninja-kt-1.0.0-all
 ```
 
 The fat jar (`-all.jar`) bundles Kotlin stdlib and the word list — drop it anywhere
-and use it with no extra dependencies.
+and use it with no extra dependencies. or check ***Release*** [here](https://github.com/khiz3r/wordninja-kt/releases/tag/wordninja)
 
 ---
-
+---
 ## Usage
 
 ### Kotlin
